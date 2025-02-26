@@ -41,9 +41,6 @@ We welcome contributions! Please follow these steps:
    ```
 5. **Create a pull request.**
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 For any inquiries, please contact [Viniciusns120](https://github.com/Viniciusns120).
 
